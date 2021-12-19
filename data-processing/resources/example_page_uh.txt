@@ -1,0 +1,221 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<html>
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta name="GENERATOR" content="Microsoft FrontPage 4.0">
+<title>Flowering Plant Families, UH Botany</title>
+</head>
+
+<body background="Image1.jpg" bgcolor="#FFEFD5">
+
+<h2><font color="#FF0000" size="7"><b>Acanthaceae </b></font></h2>
+
+<p><font size="3"> The Acanthaceae are mostly herbs or shrubs
+comprising about 250 genera and 2,500 species, including twining forms. The leaves are
+simple, opposite and decussate; stipules are lacking. The flowers are bisexual,
+zygomorphic, and usually are associated with conspicuous, often brightly colored bracts.
+The calyx is usually deeply 4-5 lobed or sometimes is highly reduced with more numerous
+minute teeth. The corolla is sympetalous, usually 5-merous, mostly zygomorphic, and
+commonly 2 lipped. The androecium usually consists of 4 didynamous stamens or only 2
+stamens adnate to the corolla tube or epigynous zone, alternate with the lobes. The
+gynoecium consists of a single compound pistil of 2 carpels, a single style, and a
+superior ovary with 2 locules, each with usually 2-10 axile ovules in one or two
+collateral vertical tiers. An annular nectary disk is usually found around the base of the
+ovary. The fruit is commonly an elastically dehiscent loculicidal capsule. The seed stalk
+or funiculus of each seed is modified into a hook shaped jaculator or retinaculum that
+functions in flinging out the seeds during dehiscence. </font></p>
+
+<p><font size="3">Each &quot;thumbnail&quot; image below is linked to a larger photograph.</font></p>
+
+<hr size="3" color="#008000">
+<div align="center"><center>
+
+<table border="3" cellpadding="4" cellspacing="0">
+  <tr>
+    <td align="center"><a href="images/adh_cyd.jpg"><font size="3"><img
+    src="images/adh_cyds.jpg" align="middle" border="0" width="60" height="90"></font></a></td>
+    <td><font size="3"><i>Adhatoda cydoniaefolia</i>, Brazilian bower plant.</font></td>
+  </tr>
+  <tr>
+    <td align="center"><div align="center"><table border="0" cellspacing="0">
+      <tr>
+        <td><a href="images/asy_gan_fl.jpg"><font size="3"><img src="images/asy_gan_fls.jpg"
+        align="middle" border="0" width="60" height="90"></font></a></td>
+        <td align="center"><a href="images/asy_gan_fr2.jpg"><img border="0" src="images/asy_gan_fr2s.jpg" width="60" height="90"></a></td>
+        <td align="center"><a href="images/asy_gan_fr.jpg"><font size="3"><img
+        src="images/asy_gan_frs.jpg" align="middle" border="0" width="60" height="90"></font></a></td>
+      </tr>
+    </table>
+      </div></td>
+    <td><font size="3"><i>Asystasia gangetica</i>, Chinese violet. The small bracts in this
+    species are not typical for the family. However, the very deeply 5-lobed calyx is. The
+    photo in the middle shows half of an immature fruit with one of the seeds
+      remove and the other still resting on the bracket-like jaculator.&nbsp;
+      The photo on the right shows the whole fruit after dehiscence. Notice the persistent calyx and the
+    well developed jaculators upon which the seeds rested before the explosive separation of
+    the carpels hurled the seeds out of the capsule.</font></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="images/gra_pic.jpg"><font size="3"><img
+    src="images/gra_pics.jpg" align="middle" border="0" width="90" height="60"></font></a></td>
+    <td><font size="3"><i>Graptophyllum pictum</i>, caricature plant. The zygomorphic,
+    strongly 2-lipped flowers of this species are much more conspicuous than the floral
+    bracts.</font></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="images/hem_alt.jpg"><font size="3"><img
+    src="images/hem_alts.jpg" align="middle" border="0" width="60" height="60"></font></a></td>
+    <td><font size="3"><i>Hemigraphis alternata</i>, metal leaf. This common ground cover has
+    purplish bracts that are about as conspicuous as the flowers.</font></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="images/jus_bet.jpg"><font size="3"><img
+    src="images/jus_bets.jpg" align="middle" border="0" width="60" height="90"></font></a></td>
+    <td><font size="3"><i>Justicia betonica</i>, white shrimp plant. Note the conspicuous
+    bracts, the strongly two-lipped corollas, and the didynamous stamens.</font></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <table border="0" cellspacing="0">
+        <tr>
+          <td><a href="images/jus_cal_073.jpg"><img border="0" src="images/jus_cal_073s.jpg" width="87" height="60"></a></td>
+          <td><a href="images/jus_cal_074.jpg"><img border="0" src="images/jus_cal_074s.jpg" width="54" height="60"></a></td>
+        </tr>
+      </table>
+    </td>
+    <td><font size="3"><i>Justicia californica</i>, chuparosa, S CA, Mar, 1973.</font></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <table border="0" cellspacing="0">
+        <tr>
+          <td><a href="images/bel_gut.jpg"><font size="3"><img
+    src="images/bel_guts.jpg" align="middle" border="0" width="60" height="90"></font></a></td>
+          <td valign="bottom"><font size="3"><i><a href="images/jus_bra_side.jpg"><img border="0" src="images/jus_bra_sides.jpg" width="90" height="60"></a></i></font></td>
+        </tr>
+      </table>
+    </td>
+    <td><font size="3"><i>Justicia brandegeana</i>, red shrimp plant. The bracts in this
+    species are quite showy and are at least as conspicuous as the 2-lipped corollas.</font></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <table border="0" cellspacing="0">
+        <tr>
+          <td><a href="images/odo_str.jpg"><img border="0" src="images/odo_strs.jpg" width="60" height="90"></a></td>
+          <td><a href="images/odo_str_inf.jpg"><img border="0" src="images/odo_str_infs.jpg" width="60" height="90"></a></td>
+          <td valign="bottom"><a href="images/odo_str_cu.jpg"><img border="0" src="images/odo_str_cus.jpg" width="90" height="60"></a></td>
+        </tr>
+      </table>
+    </td>
+    <td><font size="3"><i>Odontonema tubiforme</i>, ornamental shrub from
+      Central America grown for the bright red, tubular flowers.</font></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="images/pac_spi_387.jpg"><img border="0" src="images/pac_spi_387s.jpg" width="60" height="60"></a></td>
+    <td><font size="3"><i>Pachystachys spicata</i></font></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="images/pse_atr.jpg"><font size="3"><img
+    src="images/pse_atrs.jpg" align="middle" border="0" width="60" height="90"></font></a></td>
+    <td><font size="3"><i>Pseuderanthemum atropurpureum</i>, purple false
+      eranthemum. Smooth
+    shrub from S. Polynesia, with rose-purple or white and purple flowers; leaves variegated
+    with purple or green and white.</font></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <table border="0" cellspacing="0">
+        <tr>
+          <td><i><a href="images/san_spe_5646.jpg"><img border="0" src="images/san_spe_5646s.jpg" width="63" height="90"></a></i></td>
+          <td><a href="images/san_spe.jpg"><font size="3"><img
+    src="images/san_spes.jpg" align="middle" border="0" width="60" height="90"></font></a></td>
+        </tr>
+      </table>
+    </td>
+    <td><font size="3"><i>S</i></font><font size="3"><i>anchezia speciosa</i>. This species has narrowly tubular flowers
+    that are only weakly zygomorphic. The bracts are reddish orange like the calyx and are
+    therefore not particularly conspicuous.</font></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <table border="0" cellspacing="0">
+        <tr>
+          <td><a href="images/thu_bat_6874.jpg"><img border="0" src="images/thu_bat_6874s.jpg" width="78" height="60"></a></td>
+          <td><a href="images/thu_bat_6875.jpg"><img border="0" src="images/thu_bat_6875s.jpg" width="77" height="60"></a></td>
+        </tr>
+      </table>
+    </td>
+    <td><i>Thunbergia battescombei</i>, ornamental from tropical Africa.&nbsp;
+      UH Campus, Honolulu, April, 2004. </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <table border="0" cellspacing="0">
+        <tr>
+          <td><a href="images/thu_ere_6724.jpg"><img border="0" src="images/thu_ere_6724s.jpg" width="80" height="60"></a></td>
+          <td><a href="images/thu_ere_6727.jpg"><img border="0" src="images/thu_ere_6727s.jpg" width="74" height="60"></a></td>
+          <td><a href="images/thu_ere_4779.jpg"><img border="0" src="images/thu_ere_4779s.jpg" width="60" height="60"></a></td>
+          <td><a href="images/thu_ere_4780.jpg"><img border="0" src="images/thu_ere_4780s.jpg" width="90" height="60"></a></td>
+        </tr>
+      </table>
+    </td>
+    <td><i>Thunbergia erecta</i>.&nbsp; <i>Thunbergia</i> typically has two
+      bracts closely subtending each flower.&nbsp; These bracts hide the calyx,
+      which is commonly reduced to a short, toothed rim at the base of the
+      corolla.&nbsp; The calyx is visible in the fourth image where one of the
+      bracts has been folded back, away from the corolla. U of HI Manoa Campus,
+      Honolulu, HI, 2005. </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <table border="0" cellspacing="0">
+        <tr>
+          <td><a href="images/thu_gra_6887.jpg"><img border="0" src="images/thu_gra_6887s.jpg" width="68" height="90"></a></td>
+          <td valign="bottom"><a href="images/thu_gra_6891.jpg"><img border="0" src="images/thu_gra_6891s.jpg" width="56" height="60"></a></td>
+          <td valign="bottom"><a href="images/thu_gra_6898.jpg"><img border="0" src="images/thu_gra_6898s.jpg" width="71" height="60"></a></td>
+        </tr>
+      </table>
+    </td>
+    <td><i>Thunbergia grandiflora</i>, Bengal trumpet, ornamental liana from
+      India.&nbsp; UH Campus, Honolulu, April, 2004. </td>
+  </tr>
+  <tr>
+    <td align="center"><div align="center"><table border="0" cellspacing="0">
+      <tr>
+        <td valign="bottom"><a href="images/thu_lau_6876.jpg"><img border="0" src="images/thu_lau_6876s.jpg" width="60" height="60"></a></td>
+        <td><a href="images/thu_lau_6883.jpg"><img border="0" src="images/thu_lau_6883s.jpg" width="68" height="90"></a></td>
+        <td valign="bottom"><a href="images/thu_fra_4065.jpg"><img border="0" src="images/thu_fra_4065s.jpg" width="80" height="60"></a></td>
+      </tr>
+    </table>
+      </div></td>
+    <td><i>Thunbergia laurifolia</i>, Acanthaceae, purple allamanda. Ornamental vine from
+    India with Showy, violet, trumpet shaped flowers up to three inches across.
+      1-2, UH Campus, Honolulu, April, 2004. </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <table border="0" cellspacing="0">
+        <tr>
+          <td><i><a href="images/thu_mys_5728.jpg"><img border="0" src="images/thu_mys_5728s.jpg" width="71" height="90"></a></i></td>
+          <td valign="bottom"><i><a href="images/thu_mys_5726.jpg"><img border="0" src="images/thu_mys_5726s.jpg" width="50" height="60"></a></i></td>
+          <td valign="bottom"><a href="images/thu_mys.jpg"><img border="0" src="images/thu_myss.jpg" width="54" height="60"></a></td>
+        </tr>
+      </table>
+    </td>
+    <td><i>T</i><i>hunbergia mysorensis, </i>Lyon Arboretum, O'ahu.</td>
+  </tr>
+  <tr>
+    <td align="center"><a href="images/acanth_398.jpg"><img border="0" src="images/acanth_398s.jpg" width="70" height="60"></a></td>
+    <td>Unknown sp.</td>
+  </tr>
+</table>
+</center></div>
+
+<hr size="3" color="#008000">
+
+<p><font size="3"><a href="pfamilies.htm"><b>Plant Family Access Page</b></a><br>
+<a href="default.htm"><b>Home Page</b></a></font></p>
+</body>
+</html>
